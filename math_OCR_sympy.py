@@ -1,3 +1,4 @@
+# title math_ocr
 #install latex2sympy ↓
 #https://github.com/jackatbancast/latex2sympy
 #download zip, unzip and move "latex2sympy" folder to venv/Lib/site-packages
